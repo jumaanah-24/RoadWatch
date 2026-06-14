@@ -1,0 +1,51 @@
+Road_Name,District,State,Road_Expenditure,Accident_Count,Last_Maintenance_Date,Contractor,Citizen_Complaints,Latitude,Longitude,Road_Type
+Avinashi Road,Coimbatore,Tamil Nadu,12137000,1260,12-01-2025,ABC Constructions Pvt Ltd,4,11.10046,76.67081,National Highway
+Trichy Road,Coimbatore,Tamil Nadu,3223000,162,05-02-2025,Sri Devi Builders,36,10.88182,76.78973,State Highway
+Mettupalayam Road,Coimbatore,Tamil Nadu,13004000,153,10-03-2025,Tamil Nadu Infrastructure Ltd,4,11.15868,77.06182,District Road
+Sathy Road,Coimbatore,Tamil Nadu,24866000,142,25-01-2025,GreenField Engineering Works,19,11.25211,76.70796,Urban Road
+Pollachi Road,Coimbatore,Tamil Nadu,15150000,60,02-04-2025,Shakti Roadways Pvt Ltd,26,10.96995,76.67368,National Highway
+Palakkad Road,Coimbatore,Tamil Nadu,65148000,109,18-02-2025,Metro Civil Contractors,32,10.84798,76.95901,State Highway
+Thadagam Road,Coimbatore,Tamil Nadu,4174000,122,28-03-2025,South India Constructions,27,10.73272,76.7751,District Road
+Marudhamalai Road,Coimbatore,Tamil Nadu,21408000,98,30-01-2025,UrbanEdge Infrastructure,2,11.10673,76.98277,Urban Road
+Siruvani Road,Coimbatore,Tamil Nadu,12311000,534,15-04-2025,Pioneer Builders,4,10.84906,77.00936,National Highway
+Saravanampatti Road,Coimbatore,Tamil Nadu,6628000,449,22-02-2025,Elite Road Developers,9,11.20246,76.6597,State Highway
+Gandhipuram Main Road,Coimbatore,Tamil Nadu,6518000,204,05-03-2025,ABC Constructions Pvt Ltd,33,11.20029,77.07468,District Road
+RS Puram Road,Coimbatore,Tamil Nadu,4811000,488,19-01-2025,Sri Devi Builders,23,10.92095,76.74909,Urban Road
+Peelamedu Road,Coimbatore,Tamil Nadu,21677621,365,08-04-2025,Tamil Nadu Infrastructure Ltd,8,11.29113,76.85776,National Highway
+Ukkadam Road,Coimbatore,Tamil Nadu,22909000,856,12-02-2025,GreenField Engineering Works,11,10.77245,76.71383,State Highway
+Race Course Road,Coimbatore,Tamil Nadu,18808000,229,21-03-2025,Shakti Roadways Pvt Ltd,19,11.2253,77.01804,District Road
+Town Hall Road,Coimbatore,Tamil Nadu,10519000,231,27-01-2025,Metro Civil Contractors,1,11.20108,77.09364,Urban Road
+Singanallur Road,Coimbatore,Tamil Nadu,140000000,410,01-04-2025,South India Constructions,23,11.03854,77.23967,National Highway
+Cross Cut Road,Coimbatore,Tamil Nadu,45322000,330,14-02-2025,UrbanEdge Infrastructure,20,10.94392,76.98702,State Highway
+100 Feet Road,Coimbatore,Tamil Nadu,16424000,226,18-03-2025,Pioneer Builders,38,11.21444,77.02691,District Road
+Bharathiyar Road,Coimbatore,Tamil Nadu,14443000,413,22-01-2025,Elite Road Developers,0,11.23382,77.00221,Urban Road
+DB Road,Coimbatore,Tamil Nadu,25494831,43,10-04-2025,ABC Constructions Pvt Ltd,39,11.13954,76.6833,National Highway
+Big Bazaar Street,Coimbatore,Tamil Nadu,10069000,112,06-02-2025,Sri Devi Builders,28,10.85354,76.82943,State Highway
+NSR Road,Coimbatore,Tamil Nadu,14119000,268,11-03-2025,Tamil Nadu Infrastructure Ltd,9,10.76468,76.79548,District Road
+Perur Main Road,Coimbatore,Tamil Nadu,13395000,244,29-01-2025,GreenField Engineering Works,11,10.7774,76.82258,Urban Road
+Kuniyamuthur Road,Coimbatore,Tamil Nadu,7061742,425,03-04-2025,Shakti Roadways Pvt Ltd,3,11.09821,76.8747,National Highway
+Podanur Road,Coimbatore,Tamil Nadu,4583000,244,16-02-2025,Metro Civil Contractors,21,10.93891,76.7815,State Highway
+Airport Road,Coimbatore,Tamil Nadu,80380000,231,25-03-2025,South India Constructions,3,10.87699,77.21779,District Road
+Neelambur Road,Coimbatore,Tamil Nadu,26894000,225,31-01-2025,UrbanEdge Infrastructure,32,11.10562,77.02128,Urban Road
+Kalapatti Road,Coimbatore,Tamil Nadu,22378000,438,12-04-2025,Pioneer Builders,2,10.81948,77.09328,National Highway
+Vilankurichi Road,Coimbatore,Tamil Nadu,4053000,500,20-02-2025,Elite Road Developers,33,10.81484,76.88347,State Highway
+Kovaipudur Road,Coimbatore,Tamil Nadu,125000000,283,07-03-2025,ABC Constructions Pvt Ltd,6,11.31051,77.0398,District Road
+Sundarapuram Road,Coimbatore,Tamil Nadu,51814000,327,18-01-2025,Sri Devi Builders,4,11.05097,77.06657,Urban Road
+Ganapathy Main Road,Coimbatore,Tamil Nadu,12563000,99,06-04-2025,Tamil Nadu Infrastructure Ltd,24,11.22251,77.1214,National Highway
+Saibaba Colony Road,Coimbatore,Tamil Nadu,38432178,344,11-02-2025,GreenField Engineering Works,13,10.85423,76.67506,State Highway
+Vadavalli Road,Coimbatore,Tamil Nadu,3195000,310,19-03-2025,Shakti Roadways Pvt Ltd,35,10.90607,76.81645,District Road
+Thondamuthur Road,Coimbatore,Tamil Nadu,18582000,503,26-01-2025,Metro Civil Contractors,8,10.84339,77.22155,Urban Road
+Selvapuram Road,Coimbatore,Tamil Nadu,34711000,538,09-04-2025,South India Constructions,33,11.24262,76.84461,National Highway
+Avinashi Road East,Coimbatore,Tamil Nadu,9987968,238,23-02-2025,UrbanEdge Infrastructure,20,11.11006,76.89318,State Highway
+Trichy Road Extension,Coimbatore,Tamil Nadu,21562387,3,14-03-2025,Pioneer Builders,23,11.26553,76.93111,District Road
+Mettupalayam Main Road,Coimbatore,Tamil Nadu,12663000,0,17-01-2025,Elite Road Developers,25,10.87573,76.80378,Urban Road
+Sathy Road Phase 2,Coimbatore,Tamil Nadu,5810000,122,04-04-2025,ABC Constructions Pvt Ltd,4,11.05362,76.81345,National Highway
+Pollachi Road South,Coimbatore,Tamil Nadu,14539000,100,08-02-2025,Sri Devi Builders,0,11.06755,77.19449,State Highway
+Palakkad Road West,Coimbatore,Tamil Nadu,19420000,210,12-03-2025,Tamil Nadu Infrastructure Ltd,20,10.95644,76.78739,District Road
+Thadagam Road Extension,Coimbatore,Tamil Nadu,14509000,180,24-01-2025,GreenField Engineering Works,17,11.31532,76.96152,Urban Road
+Marudhamalai Road Hill,Coimbatore,Tamil Nadu,67346000,260,13-04-2025,Shakti Roadways Pvt Ltd,27,10.77135,76.68407,National Highway
+Siruvani Road Forest,Coimbatore,Tamil Nadu,6661000,140,21-02-2025,Metro Civil Contractors,19,10.78259,77.03227,State Highway
+Saravanampatti Tech Road,Coimbatore,Tamil Nadu,20468000,320,16-03-2025,South India Constructions,37,11.19205,76.9091,District Road
+Gandhipuram Central Road,Coimbatore,Tamil Nadu,16931000,150,20-01-2025,UrbanEdge Infrastructure,13,10.75492,76.88477,Urban Road
+RS Puram West Road,Coimbatore,Tamil Nadu,7415000,110,11-04-2025,Pioneer Builders,4,11.31447,76.97327,National Highway
+Peelamedu Industrial Road,Coimbatore,Tamil Nadu,7781000,200,15-02-2025,Elite Road Developers,36,11.29945,77.17227,State Highway

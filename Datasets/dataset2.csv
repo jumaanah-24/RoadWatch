@@ -1,0 +1,258 @@
+Road_Name,District,State,Road_Expenditure,Accident_Count,Last_Maintenance_Date,Contractor,Citizen_Complaints,Latitude,Longitude,Road_Type
+AP Coastal Highway,Visakhapatanam,Andhra Pradesh,63755382,605,11-05-2026,Andhra Infra Projects Pvt Ltd,21,15.67973,79.88096,National Highway
+Vijayawada State Road,Visakhapatanam,Andhra Pradesh,24800633,2536,25-04-2026,Sri Venkateswara Constructions,0,15.67629,79.74059,State Highway
+Guntur District Road,Visakhapatanam,Andhra Pradesh,21217417,4003,15-12-2025,Krishna Engineering Works,40,15.92056,79.43891,District Road
+Visakhapatnam City Road,Kakinada,Andhra Pradesh,51198300,5748,22-04-2025,Coastal BuildTech Ltd,49,16.01185,79.72861,Urban Road
+Amaravati Highway,Kakinada,Andhra Pradesh,74696096,6888,10-11-2025,GreenLine Infrastructure,19,16.29091,80.18695,National Highway
+Kurnool State Route,Kakinada,Andhra Pradesh,70354530,5538,25-06-2025,SouthZone Civil Works,48,15.54129,79.71528,State Highway
+Nellore District Road,Kakinada,Andhra Pradesh,50387771,1657,08-08-2025,Pioneer Road Developers,38,16.34181,79.99527,District Road
+Tirupati Urban Road,Kakinada,Andhra Pradesh,35433794,1904,02-12-2025,UrbanEdge Projects Pvt Ltd,42,16.31251,79.69149,Urban Road
+Itanagar Highway,Bichom,Arunachal Pradesh,31595486,56,17-02-2026,Northeast Infrastructure Ltd,2,27.93822,94.29879,National Highway
+Tawang State Road,Bichom,Arunachal Pradesh,15701301,25,28-05-2025,Himalayan Civil Works,0,28.23216,94.50628,State Highway
+Pasighat District Road,Bichom,Arunachal Pradesh,19512797,54,24-08-2025,Frontier Constructions,2,28.50262,95.0353,District Road
+Guwahati Highway,Chirang,Assam,26038773,625,17-12-2025,Brahmaputra Infra Pvt Ltd,22,26.56444,92.49177,National Highway
+Silchar State Road,Chirang,Assam,9046090,3877,05-06-2026,Assam BuildCorp,25,26.56227,92.68626,State Highway
+Dibrugarh District Road,Chirang,Assam,10312116,2241,20-11-2025,Tea Valley Constructions,11,26.57509,92.51299,District Road
+Jorhat Urban Road,Chirang,Assam,25831494,638,12-05-2026,Northeast Urban Infra,0,26.5493,92.60391,Urban Road
+Tezpur Highway,Chirang,Assam,32273279,2040,10-10-2025,GreenField Assam Projects,3,26.68591,92.7028,National Highway
+Patna Highway,Patna,Bihar,48941567,1271,31-01-2026,ABC Constructions Pvt Ltd,46,25.25797,85.29977,National Highway
+Gaya State Road,Patna,Bihar,63795461,1311,23-05-2025,Sri Venkateswara Constructions,37,25.34408,84.87027,State Highway
+Bhagalpur District Road,Patna,Bihar,61103145,1943,18-11-2025,GreenField Engineering Works,33,24.67621,84.99893,District Road
+Muzaffarpur Urban Road,Patna,Bihar,57960728,508,10-09-2025,UrbanEdge Infrastructure,12,24.84232,85.40762,Urban Road
+Darbhanga Highway,Patna,Bihar,46800785,557,02-09-2025,Pioneer Road Developers,18,24.80036,85.52929,National Highway
+Raipur Highway,Raipur,Chhattisgarh,36536009,4513,12-12-2025,Elite Highway Builders,33,21.3333,82.29786,National Highway
+Bilaspur State Road,Raipur,Chhattisgarh,12127558,4322,07-05-2026,Metro Civil Contractors,7,21.33192,81.63845,State Highway
+Durg District Road,Surajpur,Chhattisgarh,19694847,1223,04-09-2025,National Infra Projects Ltd,43,21.28411,81.61722,District Road
+Korba Urban Road,Surajpur,Chhattisgarh,22622353,719,15-10-2025,SmartCity Developers Pvt Ltd,17,21.54982,82.00321,Urban Road
+Panaji Highway,Ponda,Goa,4068861,1649,20-08-2025,SouthZone Civil Works,26,15.72379,74.40639,National Highway
+Margao State Road,Ponda,Goa,4283389,1376,05-11-2025,ABC Constructions Pvt Ltd,15,15.50058,74.00654,State Highway
+Vasco District Road,Ponda,Goa,1700506,1465,18-07-2025,Sri Venkateswara Constructions,29,15.59465,73.8516,District Road
+Mapusa Urban Road,Ponda,Goa,2409124,1154,22-05-2026,GreenField Engineering Works,17,15.07843,74.26548,Urban Road
+Ahmedabad Highway,Gandhinagar,Gujarat,14545823,5329,15-10-2025,UrbanEdge Infrastructure,6,22.48725,71.00608,National Highway
+Surat State Road,Gandhinagar,Gujarat,9863930,5441,25-09-2025,Pioneer Road Developers,36,22.46749,70.69409,State Highway
+Rajkot District Road,Gandhinagar,Gujarat,35633222,3916,25-10-2025,Elite Highway Builders,47,22.19,71.64127,District Road
+Vadodara Urban Road,Ahmedabad,Gujarat,26980858,3589,22-09-2025,Metro Civil Contractors,7,22.26582,71.35929,Urban Road
+Bhavnagar Highway,Ahmedabad,Gujarat,15489225,2457,12-11-2025,National Infra Projects Ltd,8,22.69906,71.36972,National Highway
+Gurgaon Highway,Gurugram,Haryana,13136920,1079,14-08-2025,SmartCity Developers Pvt Ltd,12,28.80364,76.06074,National Highway
+Faridabad State Road,Gurugram,Haryana,15814175,518,24-04-2026,SouthZone Civil Works,20,29.25515,76.07998,State Highway
+Hisar District Road,Gurugram,Haryana,22845181,777,12-08-2025,ABC Constructions Pvt Ltd,6,28.73469,76.54357,District Road
+Rohtak Urban Road,Gurugram,Haryana,19493731,1874,06-06-2026,Sri Venkateswara Constructions,7,29.02344,76.11673,Urban Road
+Panipat Highway,Gurugram,Haryana,29599144,2328,25-04-2026,GreenField Engineering Works,28,29.45082,76.01234,National Highway
+Shimla Highway,Shimla,Himachal Pradesh,16887071,635,05-08-2025,UrbanEdge Infrastructure,29,31.43769,77.06288,National Highway
+Manali State Road,Shimla,Himachal Pradesh,28486138,853,25-04-2025,Pioneer Road Developers,36,31.54754,76.97201,State Highway
+Dharamshala District Road,Shimla,Himachal Pradesh,36690042,1201,03-05-2026,Elite Highway Builders,26,31.15093,77.27665,District Road
+Solan Urban Road,Shimla,Himachal Pradesh,15043835,729,14-09-2025,Metro Civil Contractors,31,31.27367,77.47154,Urban Road
+Ranchi Highway,Ranchi,Jharkhand,16017760,1991,11-11-2025,National Infra Projects Ltd,27,23.29193,85.04006,National Highway
+Jamshedpur State Road,Ranchi,Jharkhand,29719898,776,20-10-2025,SmartCity Developers Pvt Ltd,24,23.53177,85.61481,State Highway
+Dhanbad District Road,Ranchi,Jharkhand,41711367,259,05-12-2025,SouthZone Civil Works,5,23.89143,85.43166,District Road
+Bokaro Urban Road,Ranchi,Jharkhand,25231698,290,18-01-2026,ABC Constructions Pvt Ltd,13,23.34875,85.25346,Urban Road
+Bangalore Highway,Bangalore,Karnataka,15980786,6851,16-06-2025,Sri Venkateswara Constructions,10,15.39599,76.14279,National Highway
+Mysore State Road,Bangalore,Karnataka,18928887,6498,01-08-2025,GreenField Engineering Works,25,14.8933,75.90451,State Highway
+Hubli District Road,Bangalore,Karnataka,14663498,2755,23-02-2026,UrbanEdge Infrastructure,19,15.62283,76.01013,District Road
+Belgaum Urban Road,Bangalore,Karnataka,8943361,7405,27-05-2025,Pioneer Road Developers,27,15.32326,75.55513,Urban Road
+Mangalore Highway,Coorg,Karnataka,4993650,7747,20-06-2026,Elite Highway Builders,23,15.27704,75.36689,National Highway
+Davangere State Road,Coorg,Karnataka,19048211,6984,22-01-2026,Metro Civil Contractors,17,15.59194,75.67877,State Highway
+Ballari District Road,Coorg,Karnataka,8536415,5767,05-06-2025,National Infra Projects Ltd,15,15.09623,75.6647,District Road
+Udupi Urban Road,Coorg,Karnataka,13243858,4666,09-11-2025,SmartCity Developers Pvt Ltd,24,15.66825,75.39574,Urban Road
+Tumkur Highway,Chikmagalur,Karnataka,7491197,3719,16-04-2026,SouthZone Civil Works,17,15.69741,75.76969,National Highway
+Chennai Highway,Chennai,Tamil Nadu,21500000,4321,15-07-2025,ABC Constructions Pvt Ltd,18,13.0827,80.2707,National Highway
+Coimbatore State Road,Coimbatore,Tamil Nadu,17890000,2890,10-09-2025,Sri Venkateswara Constructions,25,11.0168,76.9558,State Highway
+Madurai District Road,Madurai,Tamil Nadu,14320000,1675,12-01-2026,GreenField Engineering Works,12,9.9252,78.1198,District Road
+Trichy Urban Road,Trichy,Tamil Nadu,19845000,2540,05-11-2025,UrbanEdge Infrastructure,20,10.7905,78.7047,Urban Road
+Salem Highway,Salem,Tamil Nadu,22367000,3120,08-03-2026,Pioneer Road Developers,15,11.6643,78.146,National Highway
+Erode State Road,Erode,Tamil Nadu,11234000,1890,21-08-2025,Elite Highway Builders,9,11.341,77.7172,State Highway
+Tirunelveli District Road,Thirunelveli,Tamil Nadu,13456000,1450,30-10-2025,Metro Civil Contractors,11,8.7139,77.7567,District Road
+Vellore Urban Road,Vellore,Tamil Nadu,16578000,2100,14-02-2026,National Infra Projects Ltd,14,12.9165,79.1325,Urban Road
+Hyderabad Highway,Hyderabad,Telangana,25478000,5200,25-06-2025,SmartCity Developers Pvt Ltd,22,17.385,78.4867,National Highway
+Warangal State Road,Warangal,Telangana,16754000,3100,18-09-2025,SouthZone Civil Works,17,17.9689,79.5941,State Highway
+Karimnagar District Road,Hyderabad,Telangana,12345000,1980,28-01-2026,ABC Constructions Pvt Ltd,10,18.4386,79.1288,District Road
+Nizamabad Urban Road,Hyderabad,Telangana,14560000,1670,11-12-2025,Sri Venkateswara Constructions,13,18.6725,78.0941,Urban Road
+Delhi Ring Road,Delhi,Delhi,30567000,7200,19-05-2025,GreenField Engineering Works,30,28.7041,77.1025,Urban Road
+Noida Expressway,Dehradun,Uttar Pradesh,40234000,6100,22-07-2025,UrbanEdge Infrastructure,28,28.5355,77.391,National Highway
+Lucknow State Road,Dehradun,Uttar Pradesh,19876000,3450,09-10-2025,Pioneer Road Developers,19,26.8467,80.9462,State Highway
+Kanpur District Road,Dehradun,Uttar Pradesh,17654000,2980,05-02-2026,Elite Highway Builders,21,26.4499,80.3319,District Road
+Varanasi Urban Road,Dehradun,Uttar Pradesh,15432000,2675,27-11-2025,Metro Civil Contractors,16,25.3176,82.9739,Urban Road
+Jaipur Highway,Jaipur,Rajasthan,28765000,4890,14-06-2025,National Infra Projects Ltd,24,26.9124,75.7873,National Highway
+Udaipur State Road,Jaipur,Rajasthan,16543000,2100,03-09-2025,SmartCity Developers Pvt Ltd,12,24.5854,73.7125,State Highway
+Jodhpur District Road,Jaipur,Rajasthan,14321000,1780,20-01-2026,SouthZone Civil Works,14,26.2389,73.0243,District Road
+Ajmer Highway,Jodhpur,Rajasthan,19876000,3560,18-08-2025,ABC Constructions Pvt Ltd,18,26.4499,74.6399,National Highway
+Kota State Road,Jodhpur,Rajasthan,15432000,2450,02-11-2025,Sri Venkateswara Constructions,11,25.2138,75.8648,State Highway
+Bikaner District Road,Jodhpur,Rajasthan,13245000,1980,10-01-2026,GreenField Engineering Works,9,28.0229,73.3119,District Road
+Alwar Urban Road,Jodhpur,Rajasthan,14567000,2230,14-10-2025,UrbanEdge Infrastructure,13,27.553,76.6346,Urban Road
+Kolkata Highway,Kolkata,West Bengal,30245000,5780,12-06-2025,Pioneer Road Developers,25,22.5726,88.3639,National Highway
+Howrah State Road,Kolkata,West Bengal,18765000,2890,05-09-2025,Elite Highway Builders,14,22.5958,88.2636,State Highway
+Durgapur District Road,Kolkata,West Bengal,14320000,1985,08-02-2026,Metro Civil Contractors,10,23.5204,87.3119,District Road
+Siliguri Urban Road,Kolkata,West Bengal,16578000,2450,22-12-2025,National Infra Projects Ltd,12,26.7271,88.3953,Urban Road
+Mumbai Expressway,Mumbai,Maharashtra,50234000,8450,28-05-2025,SmartCity Developers Pvt Ltd,32,19.076,72.8777,National Highway
+Pune State Road,Pune,Maharashtra,27654000,4320,11-08-2025,SouthZone Civil Works,21,18.5204,73.8567,State Highway
+Nagpur District Road,Mumbai,Maharashtra,19876000,2890,05-01-2026,ABC Constructions Pvt Ltd,16,21.1458,79.0882,District Road
+Nashik Urban Road,Mumbai,Maharashtra,16789000,2540,19-11-2025,Sri Venkateswara Constructions,18,19.9975,73.7898,Urban Road
+Bhopal Highway,Bhopal,Madhya Pradesh,28765000,4670,09-07-2025,GreenField Engineering Works,20,23.2599,77.4126,National Highway
+Indore State Road,Bhopal,Madhya Pradesh,21543000,3560,01-10-2025,UrbanEdge Infrastructure,17,22.7196,75.8577,State Highway
+Gwalior District Road,Indore,Madhya Pradesh,17654000,2450,17-02-2026,Pioneer Road Developers,13,26.2183,78.1828,District Road
+Jabalpur Urban Road,Indore,Madhya Pradesh,15432000,2100,06-12-2025,Elite Highway Builders,11,23.1815,79.9864,Urban Road
+Bhubaneswar Highway,Sundargarh,Odisha,24356000,3890,21-06-2025,Metro Civil Contractors,19,20.2961,85.8245,National Highway
+Cuttack State Road,Sundargarh,Odisha,18765000,2780,13-09-2025,National Infra Projects Ltd,14,20.4625,85.8828,State Highway
+Rourkela District Road,Sundargarh,Odisha,14320000,1890,25-01-2026,SmartCity Developers Pvt Ltd,9,22.2604,84.8536,District Road
+Puri Urban Road,Sundargarh,Odisha,13245000,1670,08-11-2025,SouthZone Civil Works,12,19.8135,85.8312,Urban Road
+Kochi Highway,Kerala,Kerala,6330372,3285,30-09-2025,GreenField Engineering Works,7,10.47006,76.30696,National Highway
+Thiruvananthapuram State Road,Alappuzha,Kerala,5490872,7245,27-04-2026,UrbanEdge Infrastructure,47,10.94009,76.53131,State Highway
+Kozhikode District Road,Alappuzha,Kerala,4214503,3399,15-11-2025,Pioneer Road Developers,12,10.52994,75.78525,District Road
+Thrissur Urban Road,Alappuzha,Kerala,3443050,1922,14-04-2026,Metro Civil Contractors,3,11.29459,76.40897,Urban Road
+Alappuzha Highway,Thirrsur,Kerala,15043553,5362,10-10-2025,Elite Highway Builders,36,10.79097,75.95546,National Highway
+Palakkad State Road,Thirrsur,Kerala,14889337,3111,13-11-2025,National Infra Projects Ltd,7,10.84225,76.34812,State Highway
+Kannur District Road,Thirrsur,Kerala,4897059,1232,04-06-2025,SmartCity Developers Pvt Ltd,36,11.34442,75.88955,District Road
+Ernakulam Urban Road,Palakkad,Kerala,11164683,4657,20-12-2025,SouthZone Civil Works,39,10.73088,76.6796,Urban Road
+Kollam Highway,Palakkad,Kerala,16688700,8850,22-05-2025,ABC Constructions Pvt Ltd,19,10.96013,76.51119,National Highway
+Malappuram State Road,Palakkad,Kerala,5764114,2689,18-08-2025,Sri Venkateswara Constructions,42,10.52431,75.84617,State Highway
+Kottayam District Road,Kottayam,Kerala,12472318,4584,25-09-2025,GreenField Engineering Works,30,10.63861,76.05382,District Road
+Idukki Urban Road,Kottayam,Kerala,6078227,1398,08-03-2026,UrbanEdge Infrastructure,16,10.94029,76.57501,Urban Road
+Bhopal Highway,Indore,Madhya Pradesh,79963672,5652,10-10-2025,Pioneer Road Developers,41,23.30003,78.22831,National Highway
+Indore State Road,Indore,Madhya Pradesh,85385245,9790,02-12-2025,Elite Highway Builders,36,22.59775,78.84558,State Highway
+Gwalior District Road,Indore,Madhya Pradesh,50717765,5397,02-06-2025,Metro Civil Contractors,34,23.07144,79.04632,District Road
+Jabalpur Urban Road,Indore,Madhya Pradesh,48368105,4495,01-11-2025,National Infra Projects Ltd,5,23.30936,78.7321,Urban Road
+Ujjain Highway,Indore,Madhya Pradesh,93680316,12120,17-05-2026,SmartCity Developers Pvt Ltd,17,23.22967,78.6274,National Highway
+Sagar State Road,Indore,Madhya Pradesh,51352521,5845,12-06-2026,SouthZone Civil Works,37,22.96513,78.24814,State Highway
+Rewa District Road,Gwalior,Madhya Pradesh,55960028,5463,07-10-2025,ABC Constructions Pvt Ltd,6,22.88505,78.65237,District Road
+Satna Urban Road,Gwalior,Madhya Pradesh,109000000,11508,15-09-2025,Sri Venkateswara Constructions,35,22.78792,78.48017,Urban Road
+Chhindwara Highway,Gwalior,Madhya Pradesh,76745404,5416,24-01-2026,GreenField Engineering Works,0,22.93538,78.2111,National Highway
+Ratlam State Road,Gwalior,Madhya Pradesh,103000000,4939,18-05-2025,UrbanEdge Infrastructure,40,22.67696,78.70612,State Highway
+Dewas District Road,Gwalior,Madhya Pradesh,96469246,5798,22-11-2025,Pioneer Road Developers,7,23.08227,78.3962,District Road
+Khandwa Urban Road,Gwalior,Madhya Pradesh,22947969,4364,30-10-2025,Elite Highway Builders,26,23.38633,78.61835,Urban Road
+Mumbai Highway,Mumbai,Maharashtra,46615046,4795,12-09-2025,Metro Civil Contractors,45,19.52493,76.04862,National Highway
+Pune State Road,Mumbai,Maharashtra,98935348,2122,18-08-2025,National Infra Projects Ltd,24,19.75974,76.09323,State Highway
+Nagpur District Road,Mumbai,Maharashtra,130000000,2337,05-12-2025,SmartCity Developers Pvt Ltd,26,19.75924,76.03445,District Road
+Nashik Urban Road,Mumbai,Maharashtra,137000000,5314,28-12-2025,SouthZone Civil Works,37,20.11676,75.66045,Urban Road
+Aurangabad Highway,Mumbai,Maharashtra,99021256,2793,03-10-2025,ABC Constructions Pvt Ltd,34,20.1211,76.19468,National Highway
+Solapur State Road,Pune,Maharashtra,57096560,4293,01-10-2025,Sri Venkateswara Constructions,49,19.99621,75.91913,State Highway
+Kolhapur District Road,Pune,Maharashtra,114000000,3064,31-12-2025,GreenField Engineering Works,41,20.21632,75.34015,District Road
+Thane Urban Road,Pune,Maharashtra,39555514,2706,15-11-2025,UrbanEdge Infrastructure,28,19.26685,75.35806,Urban Road
+Amravati Highway,Pune,Maharashtra,36192589,6928,12-10-2025,Pioneer Road Developers,50,19.87476,75.61138,National Highway
+Akola State Road,Pune,Maharashtra,139000000,6146,01-10-2025,Elite Highway Builders,34,19.8783,76.10134,State Highway
+Latur District Road,Pune,Maharashtra,31065945,6282,20-09-2025,Metro Civil Contractors,4,20.17243,76.21133,District Road
+Satara Urban Road,Pune,Maharashtra,155000000,1107,12-06-2025,National Infra Projects Ltd,48,19.69518,75.9079,Urban Road
+Imphal Highway,Imphal,Manipur,83011954,54,28-11-2025,SmartCity Developers Pvt Ltd,1,24.30927,93.93747,National Highway
+Thoubal State Road,Imphal,Manipur,31671406,334,10-10-2025,SouthZone Civil Works,5,24.78341,93.64713,State Highway
+Churachandpur District Road,Imphal,Manipur,55095825,96,29-03-2026,ABC Constructions Pvt Ltd,2,24.1731,94.21093,District Road
+Shillong Highway,Shillong,Meghalaya,7654711,160,16-02-2026,GreenField Engineering Works,7,25.26615,91.82823,National Highway
+Tura State Road,Shillong,Meghalaya,22352081,69,25-12-2025,UrbanEdge Infrastructure,1,25.07365,91.24756,State Highway
+Jowai District Road,Shillong,Meghalaya,25503730,138,10-10-2025,Pioneer Road Developers,2,25.62523,91.14068,District Road
+Aizawl Highway,Champai,Mizoram,3796663,57,08-05-2026,Elite Highway Builders,0,23.16123,93.34176,National Highway
+Lunglei State Road,Lunglei,Mizoram,1669217,52,15-09-2025,Metro Civil Contractors,1,23.28539,93.11536,State Highway
+Champhai District Road,Champai,Mizoram,3418451,51,09-03-2026,National Infra Projects Ltd,0,23.31084,92.74653,District Road
+Kohima Highway,Dimapur,Nagaland,47071768,2,20-11-2025,SmartCity Developers Pvt Ltd,0,25.98512,94.4779,National Highway
+Dimapur State Road,Dimapur,Nagaland,61617312,4,08-09-2025,SouthZone Civil Works,1,26.48887,94.31937,State Highway
+Mokokchung District Road,Dimapur,Nagaland,41261787,21,17-12-2025,ABC Constructions Pvt Ltd,1,26.62129,94.20316,District Road
+Sambalpur Highway,Bargarh,Odisha,60284923,3551,07-06-2026,Sri Venkateswara Constructions,25,21.00901,84.6888,National Highway
+Balasore State Road,Bargarh,Odisha,48045230,344,10-05-2026,GreenField Engineering Works,14,21.12404,85.18306,State Highway
+Berhampur District Road,Bargarh,Odisha,20112838,3855,05-03-2026,UrbanEdge Infrastructure,14,21.33594,85.15991,District Road
+Jharsuguda Urban Road,Bargarh,Odisha,17169154,1130,23-09-2025,Pioneer Road Developers,29,21.10094,84.71518,Urban Road
+Angul Highway,Bargarh,Odisha,32898756,3878,11-11-2025,Elite Highway Builders,31,21.33896,84.73416,National Highway
+Kendrapara State Road,Bargarh,Odisha,74971952,1697,22-11-2025,Metro Civil Contractors,44,21.03904,85.3251,State Highway
+Mayurbhanj District Road,Puri,Odisha,67425861,2774,12-09-2025,National Infra Projects Ltd,39,20.48442,84.96903,District Road
+Puri Beach Road,Puri,Odisha,28446809,1977,18-10-2025,SmartCity Developers Pvt Ltd,23,20.81904,85.5002,Urban Road
+Ludhiana Highway,Amritsar,Punjab,30186014,1386,17-06-2026,SouthZone Civil Works,12,31.10182,75.50397,National Highway
+Amritsar State Road,Amritsar,Punjab,59100980,2280,24-08-2025,ABC Constructions Pvt Ltd,3,31.63592,75.62818,State Highway
+Jalandhar District Road,Amritsar,Punjab,48708114,463,12-06-2026,Sri Venkateswara Constructions,6,31.5168,75.16976,District Road
+Patiala Urban Road,Amritsar,Punjab,40170407,2755,05-07-2025,GreenField Engineering Works,17,31.63463,75.38142,Urban Road
+Shillong Highway,Shillong,Meghalaya,7654711,160,16-02-2026,GreenField Engineering Works,7,25.26615,91.82823,National Highway
+Tura State Road,Shillong,Meghalaya,22352081,69,25-12-2025,UrbanEdge Infrastructure,1,25.07365,91.24756,State Highway
+Jowai District Road,Shillong,Meghalaya,25503730,138,10-10-2025,Pioneer Road Developers,2,25.62523,91.14068,District Road
+Aizawl Highway,Champai,Mizoram,3796663,57,08-05-2026,Elite Highway Builders,0,23.16123,93.34176,National Highway
+Lunglei State Road,Champai,Mizoram,1669217,52,15-09-2025,Metro Civil Contractors,1,23.28539,93.11536,State Highway
+Champhai District Road,Champai,Mizoram,3418451,51,09-03-2026,National Infra Projects Ltd,0,23.31084,92.74653,District Road
+Kohima Highway,Kohima,Nagaland,47071768,2,20-11-2025,SmartCity Developers Pvt Ltd,0,25.98512,94.4779,National Highway
+Dimapur State Road,Kohima,Nagaland,61617312,4,08-09-2025,SouthZone Civil Works,1,26.48887,94.31937,State Highway
+Mokokchung District Road,Dimapur,Nagaland,41261787,21,17-12-2025,ABC Constructions Pvt Ltd,1,26.62129,94.20316,District Road
+Sambalpur Highway,Puri,Odisha,60284923,3551,07-06-2026,Sri Venkateswara Constructions,25,21.00901,84.6888,National Highway
+Balasore State Road,Puri,Odisha,48045230,344,10-05-2026,GreenField Engineering Works,14,21.12404,85.18306,State Highway
+Berhampur District Road,Jajpur,Odisha,20112838,3855,05-03-2026,UrbanEdge Infrastructure,14,21.33594,85.15991,District Road
+Jharsuguda Urban Road,Jajpur,Odisha,17169154,1130,23-09-2025,Pioneer Road Developers,29,21.10094,84.71518,Urban Road
+Angul Highway,Jajpur,Odisha,32898756,3878,11-11-2025,Elite Highway Builders,31,21.33896,84.73416,National Highway
+Kendrapara State Road,Jajpur,Odisha,74971952,1697,22-11-2025,Metro Civil Contractors,44,21.03904,85.3251,State Highway
+Mayurbhanj District Road,Jajpur,Odisha,67425861,2774,12-09-2025,National Infra Projects Ltd,39,20.48442,84.96903,District Road
+Puri Beach Road,Jajpur,Odisha,28446809,1977,18-10-2025,SmartCity Developers Pvt Ltd,23,20.81904,85.5002,Urban Road
+Ludhiana Highway,Amritsar,Punjab,30186014,1386,17-06-2026,SouthZone Civil Works,12,31.10182,75.50397,National Highway
+Amritsar State Road,Amritsar,Punjab,59100980,2280,24-08-2025,ABC Constructions Pvt Ltd,3,31.63592,75.62818,State Highway
+Jalandhar District Road,Amritsar,Punjab,48708114,463,12-06-2026,Sri Venkateswara Constructions,6,31.5168,75.16976,District Road
+Patiala Urban Road,Amritsar,Punjab,40170407,2755,05-07-2025,GreenField Engineering Works,17,31.63463,75.38142,Urban Road
+Hyderabad Highway,Hyderabad,Telangana,34500000,7200,14-08-2025,UrbanEdge Infrastructure,30,17.385,78.4867,National Highway
+Warangal State Road,Hyderabad,Telangana,19800000,4100,19-10-2025,Pioneer Road Developers,18,17.9689,79.5941,State Highway
+Karimnagar District Road,Hyderabad,Telangana,15600000,2800,08-01-2026,Elite Highway Builders,12,18.4386,79.1288,District Road
+Nizamabad Urban Road,Hyderabad,Telangana,14200000,2300,03-12-2025,Metro Civil Contractors,9,18.6725,78.0941,Urban Road
+Lucknow Highway,Lucknow,Uttar Pradesh,41200000,8600,25-06-2025,National Infra Projects Ltd,35,26.8467,80.9462,National Highway
+Kanpur State Road,Lucknow,Uttar Pradesh,27500000,5400,17-09-2025,SmartCity Developers Pvt Ltd,22,26.4499,80.3319,State Highway
+Varanasi District Road,Lucknow,Uttar Pradesh,19800000,4200,11-02-2026,SouthZone Civil Works,19,25.3176,82.9739,District Road
+Agra Urban Road,Lucknow,Uttar Pradesh,22500000,3900,28-11-2025,ABC Constructions Pvt Ltd,17,27.1767,78.0081,Urban Road
+Prayagraj Highway,Lucknow,Uttar Pradesh,30500000,6100,09-07-2025,Sri Venkateswara Constructions,26,25.4358,81.8463,National Highway
+Ghaziabad State Road,Ghaziabad,Uttar Pradesh,24800000,4700,06-10-2025,GreenField Engineering Works,21,28.6692,77.4538,State Highway
+Meerut District Road,Ghaziabad,Uttar Pradesh,18700000,3600,19-01-2026,UrbanEdge Infrastructure,15,28.9845,77.7064,District Road
+Noida Urban Road,Dehradun,Uttar Pradesh,26500000,5200,21-12-2025,Pioneer Road Developers,23,28.5355,77.391,Urban Road
+Dehradun Highway,Dehradun,Uttarakhand,17800000,2900,02-08-2025,Elite Highway Builders,14,30.3165,78.0322,National Highway
+Haridwar State Road,Dehradun,Uttarakhand,15200000,2600,15-10-2025,Metro Civil Contractors,11,29.9457,78.1642,State Highway
+Roorkee District Road,Dehradun,Uttarakhand,13400000,2100,01-03-2026,National Infra Projects Ltd,8,29.8543,77.888,District Road
+Haldwani Urban Road,Dehradun,Uttarakhand,14900000,2400,11-11-2025,SmartCity Developers Pvt Ltd,10,29.2183,79.513,Urban Road
+Darjeeling Highway,Kolkata,West Bengal,22300000,3400,27-07-2025,SouthZone Civil Works,16,27.041,88.2663,National Highway
+Asansol State Road,Kolkata,West Bengal,16700000,2700,30-09-2025,ABC Constructions Pvt Ltd,12,23.6739,86.9524,State Highway
+Kharagpur District Road,Kolkata,West Bengal,14500000,2200,05-02-2026,Sri Venkateswara Constructions,9,22.346,87.2319,District Road
+Durgapur Urban Road,Kolkata,West Bengal,15800000,2500,14-12-2025,GreenField Engineering Works,11,23.5204,87.3119,Urban Road
+Sivaganga Highway,Sivaganga,Tamil Nadu,7204109,266,19-10-2025,GreenField Engineering Works,3,10.16494,78.32503,National Highway
+Thanjavur Highway,Thanjavur,Tamil Nadu,2582471,1028,17-08-2025,UrbanEdge Infrastructure,8,10.36409,79.28128,National Highway
+Kumbakonam State Road,Thanjavur,Tamil Nadu,4466966,242,21-06-2025,Pioneer Road Developers,9,10.94811,79.05241,State Highway
+Orathanadu District Road,Thanjavur,Tamil Nadu,8518958,850,18-02-2026,Elite Highway Builders,30,10.44825,79.47117,District Road
+Pattukkottai Urban Road,Thanjavur,Tamil Nadu,4098563,341,10-09-2025,Metro Civil Contractors,5,10.32619,79.21007,Urban Road
+Thiruvidaimarudur Highway,Thanjavur,Tamil Nadu,14030585,259,22-02-2026,National Infra Projects Ltd,8,11.25624,79.27542,National Highway
+Theni Highway,Theni,Tamil Nadu,12766291,434,05-11-2025,SmartCity Developers Pvt Ltd,2,10.50318,77.8443,National Highway
+Periyakulam State Road,Theni,Tamil Nadu,7634585,159,16-06-2026,SouthZone Civil Works,2,10.27789,77.60021,State Highway
+Bodinayakanur District Road,Theni,Tamil Nadu,11552334,184,21-02-2026,ABC Constructions Pvt Ltd,5,10.101,77.20681,District Road
+Cumbum Urban Road,Theni,Tamil Nadu,2707032,112,05-01-2026,Sri Venkateswara Constructions,4,10.19477,77.80351,Urban Road
+Uthamapalayam Highway,Theni,Tamil Nadu,8448364,93,28-05-2026,GreenField Engineering Works,4,10.04183,77.72938,National Highway
+Tirunelveli Highway,Tirunelveli,Tamil Nadu,4129110,603,22-04-2025,UrbanEdge Infrastructure,19,9.110869,78.03157,National Highway
+Ambasamudram State Road,Tirunelveli,Tamil Nadu,7758550,548,15-09-2025,Pioneer Road Developers,27,8.642856,78.19512,State Highway
+Tenkasi District Road,Tirunelveli,Tamil Nadu,7265456,934,16-05-2026,Elite Highway Builders,37,9.051091,77.83282,District Road
+Palayamkottai Urban Road,Tirunelveli,Tamil Nadu,8464265,227,03-06-2025,Metro Civil Contractors,3,8.497167,78.13347,Urban Road
+Nanguneri Highway,Tirunelveli,Tamil Nadu,2568368,361,21-06-2025,National Infra Projects Ltd,0,8.733662,77.63173,National Highway
+Tiruppur Highway,Tiruppur,Tamil Nadu,6448771,919,08-10-2025,SmartCity Developers Pvt Ltd,23,11.26008,77.09473,National Highway
+Avinashi State Road,Tiruppur,Tamil Nadu,7070551,601,11-11-2025,SouthZone Civil Works,8,11.36347,77.25433,State Highway
+Dharapuram District Road,Tiruppur,Tamil Nadu,7127662,672,01-12-2025,ABC Constructions Pvt Ltd,30,11.18615,77.61529,District Road
+Udumalpet Urban Road,Tiruppur,Tamil Nadu,13187486,977,25-09-2025,Sri Venkateswara Constructions,42,11.0551,77.54041,Urban Road
+Erode Highway,Erode,Tamil Nadu,8450000,780,10-09-2025,Skyline Infra Developers Pvt Ltd,10,11.341,77.7172,National Highway
+Gobichettipalayam State Road,Erode,Tamil Nadu,6234000,520,15-11-2025,BluePeak Constructions,8,11.4545,77.442,State Highway
+Perundurai District Road,Erode,Tamil Nadu,5123000,430,12-01-2026,Titan Roadworks Ltd,6,11.2754,77.5876,District Road
+Bhavani Urban Road,Erode,Tamil Nadu,7345000,610,01-12-2025,Horizon Infrastructure Pvt Ltd,9,11.445,77.6826,Urban Road
+Salem Highway,Salem,Tamil Nadu,9234000,890,20-08-2025,Apex Highway Builders,14,11.6643,78.146,National Highway
+Attur State Road,Salem,Tamil Nadu,7123000,640,18-10-2025,Nova Civil Engineering Ltd,11,11.5941,78.607,State Highway
+Mettur District Road,Salem,Tamil Nadu,5346000,420,05-02-2026,PrimeEdge Infrastructure,7,11.787,77.8008,District Road
+Omalur Urban Road,Salem,Tamil Nadu,4982000,360,25-11-2025,Velocity Road Developers,5,11.74,78.045,Urban Road
+Trichy Highway,Tiruchirappalli,Tamil Nadu,10500000,950,22-07-2025,SilverLine Constructions,15,10.7905,78.7047,National Highway
+Srirangam State Road,Tiruchirappalli,Tamil Nadu,7450000,670,30-09-2025,Everest Infrastructure Pvt Ltd,10,10.862,78.693,State Highway
+Manapparai District Road,Tiruchirappalli,Tamil Nadu,5890000,480,18-01-2026,RapidBuild Engineers,8,10.607,78.425,District Road
+Thuraiyur Urban Road,Tiruchirappalli,Tamil Nadu,6340000,510,09-12-2025,OmniRoad Projects Ltd,6,11.147,78.598,Urban Road
+Madurai Highway,Madurai,Tamil Nadu,11200000,1020,15-06-2025,Delta Infra Solutions,18,9.9252,78.1198,National Highway
+Melur State Road,Madurai,Tamil Nadu,8230000,750,05-10-2025,UrbanGrid Developers,13,10.032,78.339,State Highway
+Usilampatti District Road,Madurai,Tamil Nadu,6120000,520,22-02-2026,Axis Civil Contractors,9,9.967,77.797,District Road
+Thirumangalam Urban Road,Madurai,Tamil Nadu,5980000,490,14-11-2025,Vertex Infrastructure Ltd,7,9.821,77.986,Urban Road
+Chennai Highway,Chennai,Tamil Nadu,14500000,1200,01-08-2025,Fusion Roadworks Pvt Ltd,20,13.0827,80.2707,National Highway
+Tambaram State Road,Chennai,Tamil Nadu,9800000,860,25-09-2025,NextGen Infra Projects,16,12.9249,80.1275,State Highway
+Avadi District Road,Chennai,Tamil Nadu,7650000,640,30-01-2026,CoreBuild Engineering Ltd,12,13.1155,80.109,District Road
+T Nagar Urban Road,Chennai,Tamil Nadu,8800000,700,20-12-2025,Summit Highway Constructions,14,13.0418,80.2341,Urban Road
+Coimbatore Ring Road,Coimbatore,Tamil Nadu,13200000,880,12-09-2025,GoldenBridge Infrastructure Pvt Ltd,11,11.0168,76.9558,National Highway
+Pollachi State Road,Coimbatore,Tamil Nadu,8450000,520,03-11-2025,IronCore Constructions,7,10.658,77.008,State Highway
+Mettupalayam District Road,Coimbatore,Tamil Nadu,6230000,410,10-01-2026,Zenith Road Developers,5,11.3,76.94,District Road
+Gandhipuram Urban Road,Coimbatore,Tamil Nadu,7120000,630,18-12-2025,MetroLine Infra Projects,9,11.0183,76.9725,Urban Road
+Namakkal Highway,Namakkal,Tamil Nadu,9100000,770,28-08-2025,Falcon Engineering Works,13,11.2213,78.1652,National Highway
+Rasipuram State Road,Namakkal,Tamil Nadu,6750000,540,11-10-2025,GreenPath Highway Builders,8,11.46,78.19,State Highway
+Paramathi District Road,Namakkal,Tamil Nadu,4980000,390,02-02-2026,TerraBuild Constructions Ltd,6,11.155,78.102,District Road
+Tiruchengode Urban Road,Namakkal,Tamil Nadu,5840000,450,20-11-2025,Skyway Infrastructure Pvt Ltd,7,11.38,77.89,Urban Road
+Karur Highway,Karur,Tamil Nadu,8600000,720,30-07-2025,UltraBuild Developers,12,10.9601,78.0766,National Highway
+Kulithalai State Road,Karur,Tamil Nadu,6120000,510,19-09-2025,ProEdge Civil Engineers,9,10.93,78.43,State Highway
+Aravakurichi District Road,Karur,Tamil Nadu,4550000,370,25-01-2026,Infinity Roadworks Ltd,5,10.77,77.9,District Road
+Thanthonimalai Urban Road,Karur,Tamil Nadu,5230000,420,05-12-2025,BrightLine Infrastructure,6,10.96,78.05,Urban Road
+Dindigul Highway,Dindigul,Tamil Nadu,9400000,810,21-06-2025,CrownBuild Constructions,14,10.3673,77.9803,National Highway
+Palani State Road,Dindigul,Tamil Nadu,7020000,600,27-10-2025,MaxWay Infra Projects,10,10.45,77.52,State Highway
+Oddanchatram District Road,Dindigul,Tamil Nadu,5210000,430,14-02-2026,AlphaEdge Engineering Ltd,7,10.48,77.75,District Road
+Nilakottai Urban Road,Dindigul,Tamil Nadu,5980000,470,09-11-2025,Trident Highway Developers,8,10.16,77.85,Urban Road
+Thoothukudi Highway,Thoothukudi,Tamil Nadu,8800000,690,14-08-2025,BuildSmart Constructions Pvt Ltd,11,8.7642,78.1348,National Highway
+Ettayapuram State Road,Thoothukudi,Tamil Nadu,6400000,530,29-09-2025,EagleEye Infrastructure,9,9.15,77.98,State Highway
+Kovilpatti District Road,Thoothukudi,Tamil Nadu,4870000,410,08-01-2026,StarGrid Civil Works,6,9.17,77.86,District Road
+Tiruchendur Urban Road,Thoothukudi,Tamil Nadu,5560000,460,22-12-2025,PowerLine Road Developers,7,8.5,78.12,Urban Road
